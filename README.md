@@ -1,21 +1,51 @@
 <h1> Dragon Battle Adventure </h1> 
 
-Welcome to Dragon Battle Adventure—an epic journey where you battle with your favorite dragons, train them, and, most importantly, COLLECT THEM ALL! Inspired by games like Dynamons, this game offers thrilling battles with stunning dragon graphics and strategic gameplay.
-
+Welcome to Dragon Battle Adventure — COLLECT THEM ALL!
 *** 
-<h2>📜 Concept</h2>h2>
+<h2>📜 Concept</h2>
+<h3>Inspired from Dynamons</h3>
+
 Embark on an adventure where you can:
 
-Battle with Dragons: Choose and fight with your dragons in strategic, turn-based combat.
-Train Your Dragons: Level up and evolve your dragons to become more powerful in battle.
-Collect Them All: Explore vast lands to find and capture a variety of unique and powerful dragons.
+Battle with Dragons: Fight with your dragons with unique skill cards.
+
+Train Your Dragons: Level up your dragons to unlock stats and exclusive abilities.
+
+Collect Them All: Explore different maps to capture your favorite dragon!
+
+<img src="https://images.crazygames.com/games/dynamons-6/cover_16x9-1700117158408.png?auto=format,compress&q=75&cs=strip" width="700" height="400">
+
+
+***
+<h2>🔥 Features </h2>
+
+Catch Dragons: Encounter wild dragons during your adventure and add them to your collection.
+
+Train & Evolve: Battle with your dragons to gain experience and evolve them.
+
+Battle: Engage in card battles with wild dragons, enemy trainers, or other players.
+
+
+*** 
+
+<h2>🐲 Types of Dragons</h2>
+
+Dragons in the game come in different types, each with strengths and weaknesses:
+
+Fire: High attack power, vulnerable to Water
+
+Water: Balanced stats, strong against Fire.
+
+Grass: High defense, weak against Water.
+
+Experiment with different dragon types and combinations to create the most powerful team!
 
 *** 
 
 
 
 
-Happy dragon hunting! 🐉🔥
+
 
 
 
