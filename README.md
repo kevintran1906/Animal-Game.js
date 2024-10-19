@@ -42,6 +42,12 @@ Experiment with different dragon types and combinations to create the most power
 
 *** 
 
+<h2> 📝 References</h2>
+
+https://openprocessing.org/sketch/2368830 
+
+The game is still in progress. Stay tune for further updates :)
+
 
 
 
